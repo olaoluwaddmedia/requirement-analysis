@@ -82,7 +82,7 @@ Use Case Diagrams are visual representations used in software development to sho
 
 # A use case diagram for the booking system
 
-![image alt](path/to/image.png)
+![image alt](https://github.com/olaoluwaddmedia/requirement-analysis/blob/2feed75207824546e3b9d90ff71e08eefa85607f/alx-booking-uc.png)
 
 
 
