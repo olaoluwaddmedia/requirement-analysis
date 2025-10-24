@@ -48,4 +48,25 @@ Requirement Analysis, also known as requirements engineering, involves the proce
   - Validate requirements with stakeholders and obtain sign-off.
   - Techniques: reviews, walkthroughs, prototypes, test-case alignment.
 
+## Types of Requirements
+
+### 1. Functional Requirements
+Functional requirements define **what the system should do** — the specific features, behaviors, and functions that enable it to meet user and business needs.  
+They describe how the system should respond to inputs and handle specific situations.
+
+**Examples:**
+- The system must allow users to create, edit, and cancel bookings.  
+- The application should send an email confirmation after each successful booking.  
+- Users should be able to log in using a registered email and password.  
+
+---
+
+### 2. Non-Functional Requirements
+Non-functional requirements specify **how the system performs its functions**, focusing on quality attributes such as performance, security, usability, and scalability.  
+They determine the overall user experience and operational standards of the software.
+
+**Examples:**
+- The system should load the booking page within 3 seconds.  
+- The application must support up to 1,000 concurrent users.  
+- User data must be encrypted to ensure security and privacy.  
 
