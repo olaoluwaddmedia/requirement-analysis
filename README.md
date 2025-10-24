@@ -81,7 +81,8 @@ Use Case Diagrams are visual representations used in software development to sho
 5-Support Design and Testing
 
 # A use case diagram for the booking system
-![alx-booking-uc.png](images/alx-booking-uc.png)
+![alx-booking-uc.png](path/to/image.png)
+
 
 
 
