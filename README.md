@@ -84,6 +84,20 @@ Use Case Diagrams are visual representations used in software development to sho
 
 ![image alt](https://github.com/olaoluwaddmedia/requirement-analysis/blob/2feed75207824546e3b9d90ff71e08eefa85607f/alx-booking-uc.png)
 
+## Acceptance Criteria
+Acceptance Criteria are a set of predefined conditions or requirements that a software product must satisfy to be accepted by the client, stakeholders, or end users. They describe the boundaries of a user story or requirement, outlining what must be true for the feature or system to be considered complete and functioning as intended.
+
+- **Booking Review**
+  - Users must be able to view a summary of their booking details (date, time, service type, and total cost) before proceeding.
+  - The summary must be accurate and reflect all selected services.
+
+- **Payment Method Selection**
+  - The system must display available payment options (e.g., credit/debit card, bank transfer, digital wallet).
+  - Users must select one valid payment method before continuing to checkout.
+
+- **Payment Processing**
+  - The system must securely process the payment through an integrated payment gateway.
+  - On successful payment, the booking must be marked as *confirmed*.
 
 
 
