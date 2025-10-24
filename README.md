@@ -23,3 +23,29 @@ Requirement Analysis, also known as requirements engineering, involves the proce
        Identifying and resolving requirement issues early in the SDLC is far less costly than fixing them later during coding or testing.
     3. Ensures Software Quality and User Satisfaction
        When requirements are well-defined, validated, and agreed upon, the resulting software is more likely to meet user needs and business objectives.
+
+## Key Activities in Requirement Analysis.
+
+## Requirement Analysis — Key Activities
+
+- **Requirement Gathering**
+  - Identify stakeholders and collect functional & non-functional needs.
+  - Techniques: interviews, surveys, observation.
+
+- **Requirement Elicitation**
+  - Explore the "why" behind needs and uncover implicit requirements.
+  - Techniques: workshops, prototyping, use cases.
+
+- **Requirement Documentation**
+  - Produce a clear, testable Software Requirements Specification (SRS).
+  - Include scope, acceptance criteria, constraints, and assumptions.
+
+- **Requirement Analysis & Modeling**
+  - Check for consistency, completeness, and feasibility.
+  - Create visual models: Use Case Diagrams, DFDs, ERDs.
+
+- **Requirement Validation**
+  - Validate requirements with stakeholders and obtain sign-off.
+  - Techniques: reviews, walkthroughs, prototypes, test-case alignment.
+
+
