@@ -68,5 +68,15 @@ They determine the overall user experience and operational standards of the soft
 **Examples:**
 - The system should load the booking page within 3 seconds.  
 - The application must support up to 1,000 concurrent users.  
-- User data must be encrypted to ensure security and privacy.  
+- User data must be encrypted to ensure security and privacy.
+
+## Use Case Diagrams
+Use Case Diagrams are visual representations used in software development to show how different users (called actors) interact with a system. They focus on what the system should do, not how it does it.
+
+# Benefits of Use Case Diagrams
+1-Simplify Understanding of System Functions
+2-Enhance Communication
+3-Define System Boundaries
+4-Aid in Requirement Gathering and Validation
+5-Support Design and Testing
 
