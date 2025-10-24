@@ -15,3 +15,11 @@ Requirement Analysis, also known as requirements engineering, involves the proce
  3-Reduces Development Costs and Time
  4-Enhances Quality and User Satisfaction
  5-Guides Design, Testing, and Maintenance
+
+ ## Why is Requirement Analysis Important?
+    1. Prevents Misunderstandings and Miscommunication
+       Requirement Analysis ensures that both stakeholders (clients, users, and managers) and developers share a common understanding of          the project’s goals.
+    2. Saves Time and Reduces Development Costs
+       Identifying and resolving requirement issues early in the SDLC is far less costly than fixing them later during coding or testing.
+    3. Ensures Software Quality and User Satisfaction
+       When requirements are well-defined, validated, and agreed upon, the resulting software is more likely to meet user needs and business objectives.
